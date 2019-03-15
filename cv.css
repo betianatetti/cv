@@ -1,0 +1,26 @@
+.btn-primary
+{
+background-color: purple;
+}
+
+.btn-primary:hover
+{
+  background-color: violet;
+  transition-duration: 2s;
+}
+
+.container
+{
+  width: 100%;
+  border: 2px dashed pink;
+}
+
+.col-xl-12
+{
+  background-color: grey;
+}
+
+.jumbotron
+{
+  background-color: #ffcccc;
+}
