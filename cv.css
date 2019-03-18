@@ -5,7 +5,7 @@ background-color: purple;
 
 .btn-primary:hover
 {
-  background-color: violet;
+  background-color: black;
   transition-duration: 2s;
 }
 
@@ -24,3 +24,9 @@ background-color: purple;
 {
   background-color: #ffcccc;
 }
+
+.w3-container
+
+{font-size: 14px;
+width: 100%;
+justify-content: center;}
