@@ -29,4 +29,5 @@ background-color: purple;
 
 {font-size: 14px;
 width: 100%;
-justify-content: center;}
+text-align: left;
+display: inline-block;}
