@@ -1,33 +1,59 @@
 .btn-primary
 {
 background-color: purple;
+font-family: Roboto, sans-serif;
 }
 
 .btn-primary:hover
 {
   background-color: black;
   transition-duration: 2s;
+  font-family: Roboto, sans-serif;
 }
 
 .container
 {
   width: 100%;
   border: 2px dashed pink;
+  font-family: Roboto, sans-serif;
 }
 
 .col-xl-12
 {
   background-color: grey;
+  font-family: Roboto, sans-serif;
 }
 
 .jumbotron
 {
   background-color: #ffcccc;
+  font-size: 14px;
+  font-family: Roboto, sans-serif;
 }
 
-.w3-container
+.fa-briefcase
 
-{font-size: 14px;
+{font-family: Roboto, sans-serif;
+font-size: 14px;
 width: 100%;
 text-align: left;
-display: inline-block;}
+display: inline-block;
+margin: auto;
+position: absolute;}
+
+.w3-container
+{
+  font-family: Roboto, sans-serif;
+}
+
+.display-4
+
+{
+  font-family: Roboto, sans-serif;
+}
+
+.navbar
+
+{
+  font-family: Roboto, sans-serif;
+}

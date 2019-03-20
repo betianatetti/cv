@@ -8,3 +8,8 @@ background-color: purple;
   background-color: black;
   transition-duration: 2s;
 }
+
+* body
+{
+	font-family: Roboto, sans-serif;
+}
