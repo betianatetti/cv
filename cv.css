@@ -2,6 +2,9 @@
 {
 background-color: purple;
 font-family: Roboto, sans-serif;
+position: absolute left: 50%;
+margin-left: 25%;
+
 }
 
 .btn-primary:hover
@@ -36,7 +39,7 @@ font-family: Roboto, sans-serif;
 {font-family: Roboto, sans-serif;
 font-size: 14px;
 width: 100%;
-text-align: left;
+text-align: right;
 display: inline-block;
 margin: auto;
 position: absolute;}
