@@ -1,62 +1,52 @@
-.btn-primary
-{
-background-color: purple;
-font-family: Roboto, sans-serif;
-position: absolute left: 50%;
-margin-left: 25%;
-
+.btn-primary {
+    background-color: purple;
+    font-family: Roboto, sans-serif;
+    position: absolute;
+    left: 50%;
+    margin-left: 25%;
 }
 
-.btn-primary:hover
-{
-  background-color: black;
-  transition-duration: 2s;
-  font-family: Roboto, sans-serif;
+.btn-primary:hover {
+    background-color: black;
+    transition-duration: 2s;
+    font-family: Roboto, sans-serif;
 }
 
-.container
-{
-  width: 100%;
-  border: 2px dashed pink;
-  font-family: Roboto, sans-serif;
+.container {
+    width: 100%;
+    border: 2px dashed pink;
+    font-family: Roboto, sans-serif;
 }
 
-.col-xl-12
-{
-  background-color: black;
-  font-family: Roboto, sans-serif;
+.col-xl-12 {
+    background-color: black;
+    font-family: Roboto, sans-serif;
 }
 
-.jumbotron
-{
-  background-color: #ffcccc;
-  font-size: 14px;
-  font-family: Roboto, sans-serif;
+.jumbotron {
+    background-color: #ffcccc;
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
 }
 
-.fa-briefcase
-
-{font-family: Roboto, sans-serif;
-font-size: 14px;
-width: 100%;
-text-align: right;
-display: inline-block;
-margin: auto;
-position: absolute;}
-
-.w3-container
-{
-  font-family: Roboto, sans-serif;
+.fa-briefcase {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    width: 100%;
+    text-align: right;
+    display: inline-block;
+    margin: auto;
+    position: absolute;
 }
 
-.display-4
-
-{
-  font-family: Roboto, sans-serif;
+.w3-container {
+    font-family: Roboto, sans-serif;
 }
 
-.navbar
+.display-4 {
+    font-family: Roboto, sans-serif;
+}
 
-{
-  font-family: Roboto, sans-serif;
+.navbar {
+    font-family: Roboto, sans-serif;
 }
