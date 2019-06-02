@@ -3,7 +3,8 @@
     font-family: Roboto, sans-serif;
     position: absolute;
     left: 50%;
-    margin-left: 55%;
+    margin-left: 25%;
+    display: inline-block;
 }
 
 .btn-primary:hover {
