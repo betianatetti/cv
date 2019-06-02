@@ -11,3 +11,7 @@ body {
     font-family: Roboto, sans-serif;
     background-color: #ffcccc;
 }
+
+.jumbotron {
+    background-color: #ffcccc;
+}
