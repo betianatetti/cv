@@ -9,9 +9,10 @@
 
 body {
     font-family: Roboto, sans-serif;
-    background-color: #ffcccc;
+    background-color: red;
 }
 
-.jumbotron {
+
+/* .jumbotron {
     background-color: #ffcccc;
-}
+} */
