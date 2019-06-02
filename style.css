@@ -1,7 +1,6 @@
 .btn-primary {
     background-color: purple;
     font-family: Roboto, sans-serif;
-    position: absolute;
 }
 
 .btn-primary:hover {
