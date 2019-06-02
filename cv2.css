@@ -1,16 +1,13 @@
-.btn-primary
-{
-background-color: purple;
+.btn-primary {
+    background-color: purple;
 }
 
-.btn-primary:hover
-{
-  background-color: black;
-  transition-duration: 2s;
+.btn-primary:hover {
+    background-color: black;
+    transition-duration: 2s;
 }
 
-* body
-{
-	font-family: Roboto, sans-serif;
-	background-color: #ffcccc;
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #ffcccc;
 }
